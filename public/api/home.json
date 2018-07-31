@@ -1,0 +1,42 @@
+{
+    "success":true,
+    "data":{
+        "topicList":[
+            {"id": "1", "title": "社会热点", "src":"//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"},
+            {"id": "2", "title": "简书电影", "src":"//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"}
+        ],
+        "articleList": [
+            {
+                "id": "1",
+                "title":"优秀的人，从不会放弃自我升级",
+                "desc":"早上，从菜场回来后，打开电脑，开始学习耶鲁大学的公开课《心理学导论》。 一直以来，都对心理学很感兴趣，只是，忙碌成了一种借口。还有，便是迫切需要...",
+                "src":"//upload-images.jianshu.io/upload_images/1322999-01542c11a861663b.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+            },
+            {
+                "id": "2",
+                "title":"把这些英语学习APP用对，学习效果翻倍！",
+                "desc":"用过许多英文学习材料，从早期的报纸，杂志，词汇书，新概念英语等，到如今琳琅满目的APP，让人应接不暇，不知道该如何选择。APP的互联网属性和智能...",
+                "src":"//upload-images.jianshu.io/upload_images/11349842-504819942afa84ea.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+            },
+            {
+                "id": "3",
+                "title":"《我不是药神》心酸落泪，救命药背后有多少药企赚钱潜规则？",
+                "desc":"最近一段时间，徐峥的一部《我不是药神》引发了全网的火热与爆文，作为一部国产电影来说，仅仅这一部戏的背后却体现着中国重症患者生活中怎样的辛酸？...",
+                "src":"//upload-images.jianshu.io/upload_images/1727605-3bacc487e55a7224?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+            },
+            {
+                "id": "4",
+                "title":"特朗普要和普京见面了，那斯诺登该怎么办？",
+                "desc":"美国总统特朗普最近几个月的工作状态用一个词语来总结的话，那就是“见面”。特朗普近来不是在跟人见面，就是在为跟人见面做准备...",
+                "src":"//upload-images.jianshu.io/upload_images/2943762-7beb9571b19ccde0?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+            }
+        ],
+        "recommendList":[
+            {"id":"1","src":"//cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"},
+            {"id":"2","src":"//cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"},
+            {"id":"3","src":"//cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"},
+            {"id":"4","src":"//cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"},
+            {"id":"5","src":"//cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"}
+        ]
+    }
+}
